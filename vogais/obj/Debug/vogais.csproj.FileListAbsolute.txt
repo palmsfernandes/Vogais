@@ -1,0 +1,6 @@
+C:\Users\vinicius.fernandes\source\repos\vogais\vogais\bin\Debug\vogais.exe.config
+C:\Users\vinicius.fernandes\source\repos\vogais\vogais\bin\Debug\vogais.exe
+C:\Users\vinicius.fernandes\source\repos\vogais\vogais\bin\Debug\vogais.pdb
+C:\Users\vinicius.fernandes\source\repos\vogais\vogais\obj\Debug\vogais.csprojAssemblyReference.cache
+C:\Users\vinicius.fernandes\source\repos\vogais\vogais\obj\Debug\vogais.exe
+C:\Users\vinicius.fernandes\source\repos\vogais\vogais\obj\Debug\vogais.pdb
